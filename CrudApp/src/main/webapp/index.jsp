@@ -8,6 +8,7 @@
 	</head>
 	
 	<body>
+		<h1>Welcome to my awesome website</h1>
 		<a href="CrudProductServlet?action=fetchAll">View Products</a>
 		<a href="PaginationServlet">View paginated Products</a>
 		<a href="addProduct.jsp?action=add">Add Products</a>
